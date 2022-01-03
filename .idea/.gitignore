@@ -4,7 +4,10 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+<<<<<<< HEAD
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+=======
+>>>>>>> 6c464478061ce59ccb5d5ce5630fd8b31a82b8a3
 # Editor-based HTTP Client requests
 /httpRequests/
